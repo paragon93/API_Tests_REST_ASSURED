@@ -1,0 +1,7 @@
+DeletePostTest.class
+GetPostsTest.class
+PatchPostTest.class
+AddPostTest.class
+GetPostTest.class
+UpdatePostTest.class
+BaseTest.class

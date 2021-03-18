@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8606a0a1-b6c6-4b33-811c-0accc217ac98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ptBEd5uk5M7LMdW6BgF4xiNbz1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\p.mielke\Desktop\APITests\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AddPostTest.addPost">
+    <configuration name="AddPostTest.addPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AddPostTest" />
+      <option name="METHOD_NAME" value="addPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeletePostTest.deletePost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeletePostTest" />
+      <option name="METHOD_NAME" value="deletePost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatchPostTest.updatePost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PatchPostTest" />
+      <option name="METHOD_NAME" value="updatePost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdatePostTest.updatePost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UpdatePostTest" />
+      <option name="METHOD_NAME" value="updatePost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APITests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddPostTest.addPost" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.DeletePostTest.deletePost" />
+        <item itemvalue="TestNG.PatchPostTest.updatePost" />
+        <item itemvalue="TestNG.UpdatePostTest.updatePost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8606a0a1-b6c6-4b33-811c-0accc217ac98" name="Default Changelist" comment="" />
+      <created>1615992395067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615992395067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2195" y="-63" key="#Project_Structure" timestamp="1616058675001">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state x="2195" y="-63" key="#Project_Structure/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616058675001" />
+    <state x="2408" y="-38" key="#com.intellij.ide.util.MemberChooser" timestamp="1616056305284">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state x="2408" y="-38" key="#com.intellij.ide.util.MemberChooser/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616056305284" />
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom" timestamp="1616062313688">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616062313688" />
+    <state width="1323" height="215" key="GridCell.Tab.0.center" timestamp="1616062313688">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.center/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616062313688" />
+    <state width="1323" height="215" key="GridCell.Tab.0.left" timestamp="1616062313687">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.left/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616062313687" />
+    <state width="1323" height="215" key="GridCell.Tab.0.right" timestamp="1616062313688">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.right/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616062313688" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1616061912511">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616061912511" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1616061912511">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616061912511" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1616061912511">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616061912511" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1616061912511">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616061912511" />
+    <state x="2104" y="-79" key="SettingsEditor" timestamp="1616057260008">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state x="2104" y="-79" key="SettingsEditor/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616057260008" />
+    <state x="2309" y="-85" key="refactoring.ChangeSignatureDialog" timestamp="1616056439765">
+      <screen x="1920" y="-85" width="1366" height="728" />
+    </state>
+    <state x="2309" y="-85" key="refactoring.ChangeSignatureDialog/1920.-85.1366.728/0.0.1920.1040@1920.-85.1366.728" timestamp="1616056439765" />
+  </component>
+</project>
