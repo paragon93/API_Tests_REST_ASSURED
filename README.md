@@ -1,35 +1,21 @@
-# API_Tests_REST_ASSURED
-sample API tests written in Java using the REST Assured library and the TestNG annotation
+## Introduction
+Sample API tests are written in Java using the REST Assured library and the TestNG annotation.
+Tests were written during the course on the udemy platform
 
-The server I am using to run the tests: https://github.com/typicode/json-server
+## Link to course 
+[Rest Assured Java](https://www.udemy.com/course/rest-assured-java/)
 
-Getting started
-Install JSON Server
+## Technologies:
+- Java
+- REST Assured Assured [REST Assured](https://rest-assured.io/)
+- TestNG [TestNG](https://testng.org/doc/)
 
-npm install -g json-server
-Create a db.json file with some data
+## How to start:
+1. Install JSON Server [JSON Server](https://github.com/typicode/json-server#getting-started)
+2. Clone this repository.
 
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
-Start JSON Server
+```
+git clone https://github.com/piotrmielkeQA/Java-REST-Assured.git
+```
+3. Import project to IDE.
 
-json-server --watch db.json
-Now if you go to http://localhost:3000/posts/1, you'll get
-
-{ "id": 1, "title": "json-server", "author": "typicode" }
-
-
-This project includes the basics of tests:
-- AddPostTest (this test uses the POST method, the test performs adding a new post)
-- GetPostTest (this test uses the GET method, test performs downloading a specific post)
-- GetPostsTest (this test uses the GET method, test performs downloading all posts)
-- PatchPostTest (this test uses the PATCH method, test update a specific post)
-- UpdatePostTest (this test uses the PUT method, test update a specific post)
-- BasteTest (this class contains the configuration for all tests)
