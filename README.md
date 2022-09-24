@@ -1,3 +1,5 @@
+![This is an image](https://rest-assured.io/img/name-transparent.png)
+
 ## Introduction
 Sample API tests are written in Java using the REST Assured library and the TestNG annotation.
 Tests were written during the course on the udemy platform
