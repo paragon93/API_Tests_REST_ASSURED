@@ -9,8 +9,8 @@ Tests were written during the course on the udemy platform
 
 ## Technologies:
 - Java
-- REST Assured Assured [REST Assured](https://rest-assured.io/)
-- TestNG [TestNG](https://testng.org/doc/)
+- [REST Assured](https://rest-assured.io/)
+- [TestNG](https://testng.org/doc/)
 
 ## How to start:
 1. Install JSON Server [JSON Server](https://github.com/typicode/json-server#getting-started)
